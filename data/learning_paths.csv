@@ -1,0 +1,30 @@
+skill,category,demand_score,hours_to_learn,free_resource,resource_url
+python,programming,98,40,Python Official Docs,https://docs.python.org
+javascript,programming,95,60,javascript.info,https://javascript.info
+typescript,programming,88,30,TypeScript Handbook,https://www.typescriptlang.org/docs
+java,programming,85,80,Java Tutorial - Oracle,https://docs.oracle.com/javase/tutorial
+react,frontend,92,35,React Official Docs,https://react.dev
+html,frontend,90,20,MDN Web Docs,https://developer.mozilla.org/en-US/docs/Web/HTML
+css,frontend,88,25,MDN CSS Docs,https://developer.mozilla.org/en-US/docs/Web/CSS
+bootstrap,frontend,75,10,Bootstrap Docs,https://getbootstrap.com/docs
+next.js,frontend,85,25,Next.js Docs,https://nextjs.org/docs
+fastapi,backend,82,15,FastAPI Docs,https://fastapi.tiangolo.com
+django,backend,80,40,Django Docs,https://docs.djangoproject.com
+flask,backend,75,20,Flask Docs,https://flask.palletsprojects.com
+node.js,backend,88,30,Node.js Docs,https://nodejs.org/en/docs
+rest api,backend,91,20,REST API Tutorial,https://restfulapi.net
+postgresql,database,87,25,PostgreSQL Docs,https://www.postgresql.org/docs
+mysql,database,82,20,MySQL Docs,https://dev.mysql.com/doc
+mongodb,database,80,20,MongoDB University,https://learn.mongodb.com
+sql,database,93,20,SQLZoo,https://sqlzoo.net
+redis,database,75,10,Redis Docs,https://redis.io/docs
+pandas,data,89,20,Pandas Docs,https://pandas.pydata.org/docs
+numpy,data,87,15,NumPy Docs,https://numpy.org/doc
+machine learning,data,91,120,fast.ai,https://www.fast.ai
+scikit-learn,data,85,30,Scikit-learn Docs,https://scikit-learn.org/stable
+tensorflow,data,82,60,TensorFlow Tutorials,https://www.tensorflow.org/tutorials
+docker,devops,88,20,Docker Docs,https://docs.docker.com
+git,tools,95,10,Pro Git Book,https://git-scm.com/book
+linux,tools,85,30,Linux Journey,https://linuxjourney.com
+aws,cloud,90,60,AWS Free Training,https://aws.amazon.com/training
+azure,cloud,85,50,Microsoft Learn,https://learn.microsoft.com

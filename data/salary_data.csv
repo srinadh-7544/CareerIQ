@@ -1,0 +1,37 @@
+role,experience_years,location_tier,skill_count,has_ml,has_cloud,has_docker,salary
+backend developer,1,1,4,0,0,0,320000
+backend developer,2,1,5,0,0,0,420000
+backend developer,3,2,6,0,0,1,520000
+backend developer,5,2,8,0,1,1,680000
+backend developer,7,1,10,0,1,1,850000
+backend developer,10,1,12,1,1,1,1100000
+frontend developer,1,1,4,0,0,0,300000
+frontend developer,2,1,5,0,0,0,400000
+frontend developer,3,2,6,0,0,0,490000
+frontend developer,5,2,8,0,0,1,620000
+frontend developer,7,1,9,0,1,1,800000
+frontend developer,10,1,11,0,1,1,980000
+data scientist,1,1,5,1,0,0,450000
+data scientist,2,1,6,1,0,0,580000
+data scientist,3,2,8,1,0,0,700000
+data scientist,5,2,10,1,1,0,900000
+data scientist,7,1,12,1,1,1,1150000
+data scientist,10,1,14,1,1,1,1500000
+full stack developer,1,1,6,0,0,0,350000
+full stack developer,2,1,8,0,0,0,460000
+full stack developer,3,2,10,0,0,1,580000
+full stack developer,5,2,12,0,1,1,750000
+full stack developer,7,1,14,1,1,1,950000
+full stack developer,10,1,16,1,1,1,1250000
+devops engineer,1,1,5,0,1,1,400000
+devops engineer,2,1,7,0,1,1,530000
+devops engineer,3,2,9,0,1,1,660000
+devops engineer,5,2,11,0,1,1,850000
+devops engineer,7,1,13,0,1,1,1050000
+devops engineer,10,1,15,1,1,1,1350000
+ml engineer,1,1,6,1,0,0,500000
+ml engineer,2,1,8,1,0,0,650000
+ml engineer,3,2,10,1,1,0,820000
+ml engineer,5,2,12,1,1,1,1050000
+ml engineer,7,1,14,1,1,1,1300000
+ml engineer,10,1,16,1,1,1,1700000

@@ -1,0 +1,31 @@
+skill,category
+python,programming
+javascript,programming
+typescript,programming
+java,programming
+c++,programming
+react,frontend
+html,frontend
+css,frontend
+bootstrap,frontend
+next.js,frontend
+fastapi,backend
+django,backend
+flask,backend
+node.js,backend
+rest api,backend
+postgresql,database
+mysql,database
+mongodb,database
+sql,database
+redis,database
+pandas,data
+numpy,data
+machine learning,data
+scikit-learn,data
+tensorflow,data
+docker,devops
+git,tools
+linux,tools
+aws,cloud
+azure,cloud
